@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://Deepakmaurya.vercel.app/" target="_blank">Deepak Maueya</a>
+  <a href="https://Deepakmaurya.vercel.app/" target="_blank">Deepak Maurya</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
